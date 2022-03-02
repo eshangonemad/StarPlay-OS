@@ -15,7 +15,7 @@ An OS Developed at StarKloud For the Raspberry Pi for gaming
    2. [Follow us on twitter](https://twitter.com/Star_KIoud)
    3. [Join our Discord Server](https://discord.gg/rPQJfGBqa3)
    4. [Star This Repository](https://github.com/eshangonemad/StarPlay-OS/)
-   5. [Sahre this repo and spread awareness about this project]() (Not Clickable)
+   5. [Share this repo and spread awareness about this project]() (Not Clickable)
 
 # Documentation
 
